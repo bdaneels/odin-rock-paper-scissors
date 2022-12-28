@@ -36,6 +36,9 @@ body{
     font-weight: normal;
     
 }
+.rndborders{
+    border-radius: 25px;
+}
 
 .bodytwo{
     color: #1F2937F;
